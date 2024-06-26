@@ -75,7 +75,9 @@
                 </div>
             </div>
         </div>
-        <nav class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg <?php
+            echo $headerClass;
+        ?>">
             <div class="container container-navbar">
                 <div class="logo">
                     <a href="index.php">
