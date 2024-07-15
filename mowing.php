@@ -26,27 +26,32 @@ include 'includes/header.php';
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping1.png" alt="" class="landscaping1">
+                    <img src="images/mow1.jpg" alt="" class="landscaping1">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>LANDSCAPING</h2>
+                    <h2 class="underline2">Mowing</h2>
                     <p>
-                        Your outdoor space is a canvas waiting to be transformed into a masterpiece. However, creating
-                        an aesthetically pleasing and functional landscape requires careful planning, design expertise,
-                        and a comprehensive understanding of your unique preferences.
+                        Maintaining a well-groomed lawn is an essential aspect of creating an inviting outdoor space.
+                        However, achieving that lush, manicured look can be challenging without the right approach.
+                        Unkempt
+                        grass, uneven patches, and overgrown areas can mar the beauty of your property.
                     </p>
                     <p>
-                        Econolawn offers professional landscaping services to turn your outdoor dreams into reality. We
-                        believe in going beyond the ordinary, crafting landscapes that not only captivate the eyes but
-                        also provide a sanctuary for you to enjoy.
+                        Econolawn presents the perfect solution – our expert mowing services. We understand that a
+                        healthy
+                        and visually appealing lawn requires more than just a lawnmower. It demands precision,
+                        knowledge,
+                        and a tailored approach to suit the unique characteristics of your green space.
                     </p>
                     <p>
-                        Our landscaping service begins with a detailed consultation, where we delve into your vision,
-                        preferences, and the natural characteristics of your property. Econolawn’s experienced team then
-                        designs and executes a plan that seamlessly integrates hardscapes, greenery, and focal points,
-                        ensuring a harmonious and inviting outdoor space.
+                        Our mowing service goes beyond the basics. We don’t just cut grass; we sculpt it. Econolawn’s
+                        team
+                        of skilled professionals employs cutting-edge techniques to ensure your lawn receives the care
+                        it
+                        deserves. We assess factors like grass type, growth patterns, and environmental conditions to
+                        determine the ideal mowing approach.
                     </p>
                 </div>
             </div>
@@ -54,60 +59,53 @@ include 'includes/header.php';
         <div class="row mt-5 ">
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>BENEFITS:</h2>
+                    <h2>BENEFITS OF PROFESSIONAL LAWN MOWING:</h2>
                     <p>
-                        <span>Personalized Designs:</span> Our landscaping service creates custom designs tailored to
-                        your
-                        preferences, ensuring a unique and personalized outdoor experience.
+                        <span>Lush Greenery:</span> Our mowing service promotes vibrant, healthy grass growth, giving
+                        your lawn a lush, green carpet.
                     </p>
                     <p>
-                        <span>Functional Spaces:</span> Econolawn considers both aesthetics and functionality,
-                        optimizing your
-                        outdoor space for relaxation, entertainment, and enjoyment.
+                        <span>Uniform Appearance:</span> Say goodbye to uneven patches and irregularities as we provide
+                        a consistent and well-manicured finish.
                     </p>
                     <p>
-                        <span>Increased Property Value:</span> A well-designed landscape not only enhances your living
-                        experience but
-                        also adds substantial value to your property.
+                        <span>Enhanced Curb Appeal:</span> A professionally mowed lawn instantly enhances the visual
+                        appeal of your property, leaving a lasting impression on visitors.
                     </p>
                 </div>
             </div>
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping2.jpg" alt="" class="landscaping2">
+                    <img src="images/mow2.jpeg" alt="" class="landscaping2">
                 </div>
             </div>
         </div>
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping3.jpg" alt="" class="landscaping3">
+                    <img src="images/mow3.jpg" alt="" class="landscaping3">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>FEATURES:</h2>
+                    <h2>FEATURES OF OUR LAWN MOWING SERVICE:</h2>
                     <p>
-                        <span>Comprehensive Consultation:</span> We begin with a thorough consultation to understand
-                        your vision,
-                        preferences, and the unique aspects of your property.
+                        <span>Precision Cutting:</span> Our team uses state-of-the-art equipment for precise and uniform
+                        grass cutting.
                     </p>
                     <p>
-                        <span>Expert Design:</span> Econolawn’s design team combines creativity with practicality to
-                        create
-                        landscapes that are visually stunning and functionally efficient.
+                        <span>Customized Approach:</span> We tailor our mowing techniques based on the specific needs
+                        and characteristics of your lawn.
                     </p>
                     <p>
-                        <span>Professional Execution:</span> From installing hardscapes to selecting and planting
-                        greenery, our team
-                        executes the landscaping plan with precision and expertise.
+                        <span>Grass Health Assessment:</span> Before mowing, we assess the health of your grass to
+                        implement a care plan that ensures long-term vitality.
                     </p>
                 </div>
             </div>
         </div>
-        <p class="mt-5">Transform your outdoor space into a haven of beauty and tranquility. Contact Econolawn for
-            expert landscaping
-            services that bring your vision to life. Let every step in your garden be a joy with our professional touch
+        <p class="mt-5">Transform your lawn into a stunning masterpiece. Contact Econolawn today for expert mowing
+            services that go beyond the ordinary. Let your outdoor space thrive with our meticulous care.
         </p>
     </div>
 </section>
@@ -165,6 +163,17 @@ include 'includes/header.php';
                                         <option value="SNOW SERVICE/REMOVAL">SNOW SERVICE/REMOVAL</option>
                                         <option value="Weed Control">Weed Control</option>
                                         <option value="Sprinkler Blow Out">Sprinkler Blow Out</option>
+                                        <option value="Sprinkler Blow Out">Tree Trimming</option>
+                                        <option value="Sprinkler Blow Out">Fertilizer</option>
+                                        <option value="Sprinkler Blow Out">TRIMING</option>
+                                        <option value="Sprinkler Blow Out">POWER EDGING</option>
+                                        <option value="Sprinkler Blow Out">SEEDING</option>
+                                        <option value="Sprinkler Blow Out">POWER WASHING</option>
+                                        <option value="Sprinkler Blow Out">TREE SERIVCE</option>
+                                        <option value="Sprinkler Blow Out">SPRINKLER START_UP</option>
+                                        <option value="Sprinkler Blow Out">BRUSH REMOVAL</option>
+                                        <option value="Sprinkler Blow Out">SANDING/SALTING </option>
+                                        <option value="Sprinkler Blow Out">SPRING/FALL CLEAN UP </option>
                                     </select>
                                 </div>
                             </div>

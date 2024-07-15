@@ -32,17 +32,19 @@ include 'includes/header.php';
             <div class="col-12 col-lg-7">
                 <div>
                     <h6>ABOUT ECONOLAWN</h6>
-                    <h2>MOWING, TRIMMING, BLOOMING - CRAFTING PICTURE-PERFECT GARDENS…</h2>
+                    <h2>MOWING TO SNOWING, WE'VE GOT YOU COVERED!
+                    </h2>
                     <p>
-                        At Econolawn, we’re not just about lawns; we’re about creating outdoor experiences that bring
-                        joy and beauty to your everyday life. With a dedicated team passionate about turning yards into
-                        green havens, we pride ourselves on making your outdoor dreams a reality.
+                        At Econolawn, we’ve been dedicated to crafting beautiful outdoor spaces in the [US] since 1985.
+                        Our expertise extends beyond the ordinary, ensuring your lawn, shrubs, and trees thrive. From
+                        tailored fertilization to pest control, we address every unique need, because healthy lawns are
+                        our passion.
                     </p>
                     <p class="mt-3">
-                        Whether it’s mowing, trimming, or landscaping, we bring care and expertise to every service. Our
-                        commitment extends beyond the services we offer – it’s about nurturing nature, cultivating joy,
-                        and making your space a haven for relaxation. Join us on a journey where Econolawn transforms
-                        lawns into vibrant, thriving extensions of your home.
+                        We pride ourselves on not just providing services but building lasting relationships with our
+                        clients. Affordable prices, reliability, and guaranteed workmanship are the pillars of our
+                        commitment. With senior discounts and a focus on helping seniors stay comfortably in their
+                        homes, Econolawn is more than lawn care – it’s a legacy of care.
                     </p>
                     <div class="abt1-img">
                         <img src="images/abt1.png" alt="">

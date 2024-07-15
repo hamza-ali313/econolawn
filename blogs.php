@@ -29,7 +29,7 @@ include 'includes/header.php';
                 <div class="recent-sec">
                     <div class="recent-box">
                         <img src="images/blog1.png" alt="">
-                        <a href="#;">
+                        <a href="blog-detail.php">
                             <h4>Lorem Ipsum Simply Text For Printing.</h4>
                             <ul>
                                 <li>
@@ -40,7 +40,7 @@ include 'includes/header.php';
                                     <i class="fas fa-calendar-alt"></i>
                                     November 22, 2023
                                 </li>
-                                <li class="ps-4">
+                                <li class="">
                                     No Comments
                                 </li>
                             </ul>
@@ -52,7 +52,7 @@ include 'includes/header.php';
                     </div>
                     <div class="recent-box">
                         <img src="images/blog2.png" alt="">
-                        <a href="#;">
+                        <a href="blog-detail.php">
                             <h4>Lorem Ipsum Simply Text For Printing.</h4>
                             <ul>
                                 <li>
@@ -63,7 +63,7 @@ include 'includes/header.php';
                                     <i class="fas fa-calendar-alt"></i>
                                     November 22, 2023
                                 </li>
-                                <li class="ps-4">
+                                <li class="">
                                     No Comments
                                 </li>
                             </ul>

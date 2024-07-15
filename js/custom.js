@@ -13,7 +13,7 @@ $(document).ready(function () {
     responsive: [
       { breakpoint: 1000, settings: { slidesToShow: 3 } },
       { breakpoint: 557, settings: { slidesToShow: 2 } },
-      { breakpoint: 480, settings: { slidesToShow: 1 } }
+      { breakpoint: 480, settings: { slidesToShow: 1, arrows:false } }
     ]
   });
 });

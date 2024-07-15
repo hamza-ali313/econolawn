@@ -31,7 +31,7 @@ include 'includes/header.php';
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>LANDSCAPING</h2>
+                    <h2 class="underline2">LANDSCAPING</h2>
                     <p>
                         Your outdoor space is a canvas waiting to be transformed into a masterpiece. However, creating
                         an aesthetically pleasing and functional landscape requires careful planning, design expertise,
@@ -165,6 +165,17 @@ include 'includes/header.php';
                                         <option value="SNOW SERVICE/REMOVAL">SNOW SERVICE/REMOVAL</option>
                                         <option value="Weed Control">Weed Control</option>
                                         <option value="Sprinkler Blow Out">Sprinkler Blow Out</option>
+                                        <option value="Sprinkler Blow Out">Tree Trimming</option>
+                                        <option value="Sprinkler Blow Out">Fertilizer</option>
+                                        <option value="Sprinkler Blow Out">TRIMING</option>
+                                        <option value="Sprinkler Blow Out">POWER EDGING</option>
+                                        <option value="Sprinkler Blow Out">SEEDING</option>
+                                        <option value="Sprinkler Blow Out">POWER WASHING</option>
+                                        <option value="Sprinkler Blow Out">TREE SERIVCE</option>
+                                        <option value="Sprinkler Blow Out">SPRINKLER START_UP</option>
+                                        <option value="Sprinkler Blow Out">BRUSH REMOVAL</option>
+                                        <option value="Sprinkler Blow Out">SANDING/SALTING </option>
+                                        <option value="Sprinkler Blow Out">SPRING/FALL CLEAN UP </option>
                                     </select>
                                 </div>
                             </div>

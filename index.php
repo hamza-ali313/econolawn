@@ -162,34 +162,34 @@ include 'includes/header.php';
 <section class="our-services">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 p-0">
                 <h6>OUR SERVICES</h6>
                 <h3>EXPERIENCE A VIBRANT, STRESS-FREE YARD!
                 </h3>
             </div>
         </div>
         <div class="row pt-3">
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="img">
                     <img src="images/serv1.png" alt="">
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="txt-sec">
                     <h4>Landscaping</h4>
                     <p>
                         Elevate your outdoor haven with Econolawn’s landscaping. Simple, stunning transformations that
                         capture nature’s effortless beauty.
                     </p>
-                    <a href="#;" class="btn3 mt-5">Read More</a>
+                    <a href="landscaping.php" class="btn3">Read More</a>
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="img">
                     <img src="images/serv2.png" alt="">
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="txt-sec">
                     <h4>Shrub Trimming</h4>
                     <p>
@@ -197,38 +197,43 @@ include 'includes/header.php';
                         that
                         enhances your entire landscape.
                     </p>
-                    <a href="#;" class="btn3 mt-5">Read More</a>
+                    <a href="shrubtrimming.php" class="btn3">Read More</a>
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="txt-sec">
                     <h4>Stump Grinding</h4>
                     <p>
                         Say goodbye to unsightly stumps with Econolawn. We grind them away, restoring your outdoor space
                         beautifully.
                     </p>
-                    <a href="#;" class="btn3 mt-5">Read More</a>
+                    <a href="stumpgrinding.php" class="btn3">Read More</a>
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="img">
                     <img src="images/serv3.png" alt="">
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="txt-sec">
                     <h4>Gutter Cleaning</h4>
                     <p>
                         Safeguard your home with Econolawn’s gutter cleaning. Clear, reliable, and hassle-free
                         protection for your property’s well-being.
                     </p>
-                    <a href="#;" class="btn3 mt-5">Read More</a>
+                    <a href="guttercleaning.php" class="btn3">Read More</a>
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-md-6 p-0">
+            <div class="col-12 col-xl-3 col-lg-6 col-md-6 p-0">
                 <div class="img">
                     <img src="images/serv4.png" alt="">
                 </div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-5">
+            <div class="col-12 col-xl-3 col-lg-3 col-md-3 col-sm-6">
+                <a href="services.php" class="btn1">VIEW MORE SERVICES</a>
             </div>
         </div>
     </div>

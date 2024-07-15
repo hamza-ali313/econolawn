@@ -26,27 +26,28 @@ include 'includes/header.php';
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping1.png" alt="" class="landscaping1">
+                    <img src="images/stump1.jpg" alt="" class="landscaping1">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>LANDSCAPING</h2>
+                    <h2 class="underline2">Stump Grinding</h2>
                     <p>
-                        Your outdoor space is a canvas waiting to be transformed into a masterpiece. However, creating
-                        an aesthetically pleasing and functional landscape requires careful planning, design expertise,
-                        and a comprehensive understanding of your unique preferences.
+                        Remnants of tree stumps not only mar the visual appeal of your outdoor space but can also pose
+                        safety hazards and hinder new landscaping projects. Removing these stubborn stumps requires
+                        specialized equipment and expertise.
                     </p>
                     <p>
-                        Econolawn offers professional landscaping services to turn your outdoor dreams into reality. We
-                        believe in going beyond the ordinary, crafting landscapes that not only captivate the eyes but
-                        also provide a sanctuary for you to enjoy.
+                        Econolawn offers efficient stump grinding services to eliminate unsightly stumps and create a
+                        smooth, hazard-free landscape. We understand the challenges posed by stubborn tree remnants and
+                        provide a comprehensive solution for their removal.
                     </p>
                     <p>
-                        Our landscaping service begins with a detailed consultation, where we delve into your vision,
-                        preferences, and the natural characteristics of your property. Econolawn’s experienced team then
-                        designs and executes a plan that seamlessly integrates hardscapes, greenery, and focal points,
-                        ensuring a harmonious and inviting outdoor space.
+                        Our stump grinding service employs state-of-the-art equipment to grind stumps down to a
+                        manageable
+                        level, allowing for seamless landscaping or construction. Econolawn’s skilled technicians ensure
+                        a
+                        thorough and efficient removal process, leaving your property with a clean and safe finish.
                     </p>
                 </div>
             </div>
@@ -56,58 +57,52 @@ include 'includes/header.php';
                 <div>
                     <h2>BENEFITS:</h2>
                     <p>
-                        <span>Personalized Designs:</span> Our landscaping service creates custom designs tailored to
-                        your
-                        preferences, ensuring a unique and personalized outdoor experience.
+                        <span>Enhanced Safety:</span> Eliminate tripping hazards and potential injuries by removing
+                        protruding tree stumps from your property.
                     </p>
                     <p>
-                        <span>Functional Spaces:</span> Econolawn considers both aesthetics and functionality,
-                        optimizing your
-                        outdoor space for relaxation, entertainment, and enjoyment.
+                        <span>Facilitates New Planting:</span> Stump grinding creates a blank canvas for new landscaping
+                        projects, allowing for the seamless introduction of new greenery.
                     </p>
                     <p>
-                        <span>Increased Property Value:</span> A well-designed landscape not only enhances your living
-                        experience but
-                        also adds substantial value to your property.
+                        <span>Preserves Aesthetics:</span> Say goodbye to unsightly stumps that detract from the beauty
+                        of your outdoor space, enhancing overall aesthetics.
                     </p>
                 </div>
             </div>
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping2.jpg" alt="" class="landscaping2">
+                    <img src="images/stump2.jpg" alt="" class="landscaping2">
                 </div>
             </div>
         </div>
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping3.jpg" alt="" class="landscaping3">
+                    <img src="images/stump3.webp" alt="" class="landscaping3">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
                     <h2>FEATURES:</h2>
                     <p>
-                        <span>Comprehensive Consultation:</span> We begin with a thorough consultation to understand
-                        your vision,
-                        preferences, and the unique aspects of your property.
+                        <span>Specialized Equipment:</span> Econolawn employs specialized stump grinding equipment for
+                        efficient and precise removal.
                     </p>
                     <p>
-                        <span>Expert Design:</span> Econolawn’s design team combines creativity with practicality to
-                        create
-                        landscapes that are visually stunning and functionally efficient.
+                        <span>Thorough Cleanup:</span> Our team ensures a thorough cleanup post-grinding, leaving your
+                        property immaculate and ready for new projects.
                     </p>
                     <p>
-                        <span>Professional Execution:</span> From installing hardscapes to selecting and planting
-                        greenery, our team
-                        executes the landscaping plan with precision and expertise.
+                        <span>Professional Expertise:</span> With years of experience, Econolawn’s technicians approach
+                        stump grinding with precision and efficiency.
                     </p>
                 </div>
             </div>
         </div>
-        <p class="mt-5">Transform your outdoor space into a haven of beauty and tranquility. Contact Econolawn for
-            expert landscaping
-            services that bring your vision to life. Let every step in your garden be a joy with our professional touch
+        <p class="mt-5">Transform your landscape by eliminating stubborn stumps. Contact Econolawn for expert stump
+            grinding services that ensure a safe, clean, and aesthetically pleasing outdoor environment. Let us help you
+            reclaim your space.
         </p>
     </div>
 </section>
@@ -165,6 +160,17 @@ include 'includes/header.php';
                                         <option value="SNOW SERVICE/REMOVAL">SNOW SERVICE/REMOVAL</option>
                                         <option value="Weed Control">Weed Control</option>
                                         <option value="Sprinkler Blow Out">Sprinkler Blow Out</option>
+                                        <option value="Sprinkler Blow Out">Tree Trimming</option>
+                                        <option value="Sprinkler Blow Out">Fertilizer</option>
+                                        <option value="Sprinkler Blow Out">TRIMING</option>
+                                        <option value="Sprinkler Blow Out">POWER EDGING</option>
+                                        <option value="Sprinkler Blow Out">SEEDING</option>
+                                        <option value="Sprinkler Blow Out">POWER WASHING</option>
+                                        <option value="Sprinkler Blow Out">TREE SERIVCE</option>
+                                        <option value="Sprinkler Blow Out">SPRINKLER START_UP</option>
+                                        <option value="Sprinkler Blow Out">BRUSH REMOVAL</option>
+                                        <option value="Sprinkler Blow Out">SANDING/SALTING </option>
+                                        <option value="Sprinkler Blow Out">SPRING/FALL CLEAN UP </option>
                                     </select>
                                 </div>
                             </div>

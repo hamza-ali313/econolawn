@@ -9,7 +9,7 @@ include 'includes/header.php';
 <section class="account">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-6">
+            <div class="col-12 col-xl-6 col-lg-7 col-md-8">
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
                         <button class="nav-link active" id="pills-login-tab" data-bs-toggle="pill"
@@ -35,7 +35,7 @@ include 'includes/header.php';
                                 <label for="login-password">Password <span>*</span></label>
                                 <input type="password" id="login-password" class="form-control">
                                 <div class="row lower justify-content-between mt-4">
-                                    <div class="col-6">
+                                    <div class="col-12 col-xl-6 col-lg-6 col-md-12">
                                         <div class="d-flex align-items-center justify-content-between">
                                             <div class="form-group cust-checkbox">
                                                 <input type="checkbox" id="remember-me">
@@ -44,8 +44,10 @@ include 'includes/header.php';
                                             <button type="submit" class="btn1">Log in</button>
                                         </div>
                                     </div>
-                                    <div class="col-5">
-                                    <a href=""><p>Lost your password?</p></a>
+                                    <div class="col-12 col-xl-6 col-lg-6 col-md-12">
+                                        <a href="lost-password.php">
+                                            <p>Lost your password?</p>
+                                        </a>
                                     </div>
                                 </div>
                             </form>
@@ -54,8 +56,28 @@ include 'includes/header.php';
                     <div class="tab-pane fade" id="pills-register" role="tabpanel" aria-labelledby="pills-register-tab">
                         <div class="apt-form">
                             <form action="">
-                                <label for="register-username-email">Username or email address <span>*</span></label>
-                                <input type="text" id="register-username-email" class="form-control">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <label for="register-username-email">Username <span>*</span></label>
+                                        <input type="text" id="register-username-email" class="form-control">
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="email">email<span>*</span></label>
+                                        <input type="email" id="email" class="form-control">
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="Number">Number <span>*</span></label>
+                                        <input type="number" id="Number" class="form-control">
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="password">Password <span>*</span></label>
+                                        <input type="passward" id="password" class="form-control">
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="confirm-password">confirm password <span>*</span></label>
+                                        <input type="passward" id="confirm-password" class="form-control">
+                                    </div>
+                                </div>
                                 <p class="mt-2">A link to set a new password will be sent to your email address.</p>
                                 <p>
                                     Your personal data will be used to support your experience throughout this website,

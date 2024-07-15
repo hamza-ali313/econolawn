@@ -50,24 +50,32 @@
                         <div class="th1">
                             <ul>
                                 <li>
-                                    <i class="fa-solid fa-phone"></i>
-                                    (715) 450-5575
+                                    <a href="callto:(715) 450-5575">
+                                        <i class="fa-solid fa-phone"></i>
+                                        (715) 450-5575
+                                    </a>
                                 </li>
                                 <li></li>
                                 <li>
-                                    <i class="fa-solid fa-envelope"></i>
-                                    econolawnec@gmail.com
+                                    <a href="mailto:econolawnec@gmail.com">
+                                        <i class="fa-solid fa-envelope"></i>
+                                        econolawnec@gmail.com
+                                    </a>
                                 </li>
                             </ul>
                             <ul>
                                 <li>
-                                    <i class="fa-regular fa-circle-user"></i>
-                                    Login
+                                    <a href="account.php">
+                                        <i class="fa-regular fa-circle-user"></i>
+                                        Login
+                                    </a>
                                 </li>
                                 <li></li>
                                 <li>
-                                    <i class="fa-solid fa-user-gear"></i>
-                                    Register
+                                    <a href="account.php">
+                                        <i class="fa-solid fa-user-gear"></i>
+                                        Register
+                                    </a>
                                 </li>
                             </ul>
                         </div>
@@ -76,7 +84,7 @@
             </div>
         </div>
         <nav class="navbar navbar-expand-lg <?php
-            echo $headerClass;
+        echo $headerClass;
         ?>">
             <div class="container container-navbar">
                 <div class="logo">

@@ -36,8 +36,8 @@
             </div>
             <div class="col-12 col-lg-3 col-md-6 col-sm-6">
                 <div>
-                    <h4>Get In Touch    </h4>
-                    <ul>
+                    <h4>Get In Touch</h4>
+                    <ul class="get-in-touch">
                         <li><a href="tel:(715) 450-5575">
                                 <i class="fa fa-phone-alt"></i>
                                 <div>

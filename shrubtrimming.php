@@ -26,27 +26,28 @@ include 'includes/header.php';
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping1.png" alt="" class="landscaping1">
+                    <img src="images/shrub1.webp" alt="" class="landscaping1">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>LANDSCAPING</h2>
+                    <h2 class="underline2">SHRUB TRIMMING</h2>
                     <p>
-                        Your outdoor space is a canvas waiting to be transformed into a masterpiece. However, creating
-                        an aesthetically pleasing and functional landscape requires careful planning, design expertise,
-                        and a comprehensive understanding of your unique preferences.
+                        Shrubs and bushes contribute to the overall beauty of your landscape, but overgrown and
+                        misshapen
+                        shrubs can detract from the aesthetic appeal of your outdoor space. Trimming is essential for
+                        maintaining the health and appearance of your shrubs.
                     </p>
                     <p>
-                        Econolawn offers professional landscaping services to turn your outdoor dreams into reality. We
-                        believe in going beyond the ordinary, crafting landscapes that not only captivate the eyes but
-                        also provide a sanctuary for you to enjoy.
+                        Econolawn offers precise shrub trimming services to sculpt your greenery into beautiful and
+                        well-maintained shapes. We understand that shrub trimming isn’t just about aesthetics; it’s
+                        about
+                        promoting healthy growth and preserving the natural beauty of your landscape.
                     </p>
                     <p>
-                        Our landscaping service begins with a detailed consultation, where we delve into your vision,
-                        preferences, and the natural characteristics of your property. Econolawn’s experienced team then
-                        designs and executes a plan that seamlessly integrates hardscapes, greenery, and focal points,
-                        ensuring a harmonious and inviting outdoor space.
+                        Our shrub trimming service involves careful assessment and shaping of shrubs to maintain their
+                        natural form while eliminating excess growth. Econolawn’s skilled technicians utilize the latest
+                        trimming techniques to enhance the visual appeal of your landscape.
                     </p>
                 </div>
             </div>
@@ -56,58 +57,53 @@ include 'includes/header.php';
                 <div>
                     <h2>BENEFITS:</h2>
                     <p>
-                        <span>Personalized Designs:</span> Our landscaping service creates custom designs tailored to
-                        your
-                        preferences, ensuring a unique and personalized outdoor experience.
+                        <span>Preserves Health:</span> Proper trimming promotes air circulation and sunlight exposure,
+                        preventing disease and promoting healthy shrub growth.
                     </p>
                     <p>
-                        <span>Functional Spaces:</span> Econolawn considers both aesthetics and functionality,
-                        optimizing your
-                        outdoor space for relaxation, entertainment, and enjoyment.
+                        <span>Aesthetic Enhancement:</span> Shrub trimming enhances the overall appearance of your
+                        landscape, contributing to an inviting and well-groomed outdoor space.
                     </p>
                     <p>
-                        <span>Increased Property Value:</span> A well-designed landscape not only enhances your living
-                        experience but
-                        also adds substantial value to your property.
+                        <span>Prevents Overgrowth:</span> Regular trimming prevents shrubs from becoming overgrown,
+                        preserving their natural shape and beauty.
                     </p>
                 </div>
             </div>
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping2.jpg" alt="" class="landscaping2">
+                    <img src="images/shrub2.jpg" alt="" class="landscaping2">
                 </div>
             </div>
         </div>
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping3.jpg" alt="" class="landscaping3">
+                    <img src="images/shrub3.jpg" alt="" class="landscaping3">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
                     <h2>FEATURES:</h2>
                     <p>
-                        <span>Comprehensive Consultation:</span> We begin with a thorough consultation to understand
-                        your vision,
-                        preferences, and the unique aspects of your property.
+                        <span>Skilled Technicians: </span> Econolawn’s technicians are skilled in the art of shrub
+                        trimming, ensuring precise and aesthetically pleasing results.
                     </p>
                     <p>
-                        <span>Expert Design:</span> Econolawn’s design team combines creativity with practicality to
-                        create
-                        landscapes that are visually stunning and functionally efficient.
+                        <span>Custom Shaping: </span>We tailor our trimming techniques to suit the natural growth
+                        patterns and aesthetic preferences of your shrubs.
                     </p>
                     <p>
-                        <span>Professional Execution:</span> From installing hardscapes to selecting and planting
-                        greenery, our team
-                        executes the landscaping plan with precision and expertise.
+                        <span>Seasonal Maintenance Plans: </span>Econolawn offers routine trimming schedules to ensure
+                        your shrubs remain beautifully maintained throughout the year.
                     </p>
                 </div>
             </div>
         </div>
-        <p class="mt-5">Transform your outdoor space into a haven of beauty and tranquility. Contact Econolawn for
-            expert landscaping
-            services that bring your vision to life. Let every step in your garden be a joy with our professional touch
+        <p class="mt-5">
+            Transform your landscape with expert shrub trimming. Contact Econolawn for professional services that
+            preserve the health and beauty of your shrubs. Let us sculpt your greenery for an inviting and visually
+            appealing outdoor space.
         </p>
     </div>
 </section>
@@ -165,6 +161,17 @@ include 'includes/header.php';
                                         <option value="SNOW SERVICE/REMOVAL">SNOW SERVICE/REMOVAL</option>
                                         <option value="Weed Control">Weed Control</option>
                                         <option value="Sprinkler Blow Out">Sprinkler Blow Out</option>
+                                        <option value="Sprinkler Blow Out">Tree Trimming</option>
+                                        <option value="Sprinkler Blow Out">Fertilizer</option>
+                                        <option value="Sprinkler Blow Out">TRIMING</option>
+                                        <option value="Sprinkler Blow Out">POWER EDGING</option>
+                                        <option value="Sprinkler Blow Out">SEEDING</option>
+                                        <option value="Sprinkler Blow Out">POWER WASHING</option>
+                                        <option value="Sprinkler Blow Out">TREE SERIVCE</option>
+                                        <option value="Sprinkler Blow Out">SPRINKLER START_UP</option>
+                                        <option value="Sprinkler Blow Out">BRUSH REMOVAL</option>
+                                        <option value="Sprinkler Blow Out">SANDING/SALTING </option>
+                                        <option value="Sprinkler Blow Out">SPRING/FALL CLEAN UP </option>
                                     </select>
                                 </div>
                             </div>

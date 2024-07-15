@@ -26,27 +26,27 @@ include 'includes/header.php';
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping1.png" alt="" class="landscaping1">
+                    <img src="images/gutter1.jpeg" alt="" class="landscaping1">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
-                    <h2>LANDSCAPING</h2>
+                    <h2 class="underline2">Gutter Cleaning</h2>
                     <p>
-                        Your outdoor space is a canvas waiting to be transformed into a masterpiece. However, creating
-                        an aesthetically pleasing and functional landscape requires careful planning, design expertise,
-                        and a comprehensive understanding of your unique preferences.
+                        Clogged gutters pose a threat to the structural integrity of your home, leading to water damage,
+                        leaks, and potential foundation issues. Neglecting gutter maintenance can result in costly
+                        repairs
+                        and compromise the safety of your property.
                     </p>
                     <p>
-                        Econolawn offers professional landscaping services to turn your outdoor dreams into reality. We
-                        believe in going beyond the ordinary, crafting landscapes that not only captivate the eyes but
-                        also provide a sanctuary for you to enjoy.
+                        Econolawn presents a simple yet crucial solution – our professional gutter cleaning services. We
+                        understand the importance of a clean and efficient gutter system in safeguarding your home from
+                        water-related damage.
                     </p>
                     <p>
-                        Our landscaping service begins with a detailed consultation, where we delve into your vision,
-                        preferences, and the natural characteristics of your property. Econolawn’s experienced team then
-                        designs and executes a plan that seamlessly integrates hardscapes, greenery, and focal points,
-                        ensuring a harmonious and inviting outdoor space.
+                        Our gutter cleaning service begins with a thorough inspection of your gutters, identifying and
+                        removing debris, leaves, and blockages. Econolawn’s trained technicians ensure that your gutter
+                        system functions optimally, preventing water buildup and potential damage to your property.
                     </p>
                 </div>
             </div>
@@ -56,58 +56,52 @@ include 'includes/header.php';
                 <div>
                     <h2>BENEFITS:</h2>
                     <p>
-                        <span>Personalized Designs:</span> Our landscaping service creates custom designs tailored to
-                        your
-                        preferences, ensuring a unique and personalized outdoor experience.
+                        <span>Prevent Water Damage:</span> Regular gutter cleaning prevents water overflow, reducing the
+                        risk of water damage to your home’s foundation, walls, and roof.
                     </p>
                     <p>
-                        <span>Functional Spaces:</span> Econolawn considers both aesthetics and functionality,
-                        optimizing your
-                        outdoor space for relaxation, entertainment, and enjoyment.
+                        <span>Extend Gutter Lifespan:</span> Removing debris and blockages helps maintain the integrity
+                        of your gutters, prolonging their lifespan and effectiveness.
                     </p>
                     <p>
-                        <span>Increased Property Value:</span> A well-designed landscape not only enhances your living
-                        experience but
-                        also adds substantial value to your property.
+                        <span>Protect Property Value:</span> Proper gutter maintenance is a key factor in preserving
+                        your home’s value and preventing costly repairs.
                     </p>
                 </div>
             </div>
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping2.jpg" alt="" class="landscaping2">
+                    <img src="images/gutter2.jpg" alt="" class="landscaping2">
                 </div>
             </div>
         </div>
         <div class="row mt-5 ">
             <div class="col-12 col-lg-5">
                 <div>
-                    <img src="images/landscaping3.jpg" alt="" class="landscaping3">
+                    <img src="images/gutter3.png" alt="" class="landscaping3">
                 </div>
             </div>
             <div class="col-12 col-lg-7">
                 <div>
                     <h2>FEATURES:</h2>
                     <p>
-                        <span>Comprehensive Consultation:</span> We begin with a thorough consultation to understand
-                        your vision,
-                        preferences, and the unique aspects of your property.
+                        <span>Thorough Inspection:</span> We start with a comprehensive inspection to identify any
+                        issues or areas that require special attention.
                     </p>
                     <p>
-                        <span>Expert Design:</span> Econolawn’s design team combines creativity with practicality to
-                        create
-                        landscapes that are visually stunning and functionally efficient.
+                        <span>Efficient Debris Removal:</span> Econolawn’s technicians use industry-approved methods to
+                        remove debris, leaves, and blockages, ensuring optimal gutter performance.
                     </p>
                     <p>
-                        <span>Professional Execution:</span> From installing hardscapes to selecting and planting
-                        greenery, our team
-                        executes the landscaping plan with precision and expertise.
+                        <span>Scheduled Maintenance:</span> We offer routine gutter cleaning schedules to provide
+                        consistent and reliable maintenance for your property.
                     </p>
                 </div>
             </div>
         </div>
-        <p class="mt-5">Transform your outdoor space into a haven of beauty and tranquility. Contact Econolawn for
-            expert landscaping
-            services that bring your vision to life. Let every step in your garden be a joy with our professional touch
+        <p class="mt-5">Safeguard your home from water damage. Contact Econolawn for professional gutter cleaning
+            services that ensure the longevity and safety of your property. Let us protect your investment with our
+            expert care.
         </p>
     </div>
 </section>
@@ -165,6 +159,17 @@ include 'includes/header.php';
                                         <option value="SNOW SERVICE/REMOVAL">SNOW SERVICE/REMOVAL</option>
                                         <option value="Weed Control">Weed Control</option>
                                         <option value="Sprinkler Blow Out">Sprinkler Blow Out</option>
+                                        <option value="Sprinkler Blow Out">Tree Trimming</option>
+                                        <option value="Sprinkler Blow Out">Fertilizer</option>
+                                        <option value="Sprinkler Blow Out">TRIMING</option>
+                                        <option value="Sprinkler Blow Out">POWER EDGING</option>
+                                        <option value="Sprinkler Blow Out">SEEDING</option>
+                                        <option value="Sprinkler Blow Out">POWER WASHING</option>
+                                        <option value="Sprinkler Blow Out">TREE SERIVCE</option>
+                                        <option value="Sprinkler Blow Out">SPRINKLER START_UP</option>
+                                        <option value="Sprinkler Blow Out">BRUSH REMOVAL</option>
+                                        <option value="Sprinkler Blow Out">SANDING/SALTING </option>
+                                        <option value="Sprinkler Blow Out">SPRING/FALL CLEAN UP </option>
                                     </select>
                                 </div>
                             </div>
