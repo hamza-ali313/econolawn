@@ -40,7 +40,7 @@
     </style>
 </head>
 
-<body>
+<body class="">
     <!-- Navbar Start -->
     <header>
         <div class="top_header_section">
@@ -65,14 +65,14 @@
                             </ul>
                             <ul>
                                 <li>
-                                    <a href="account.php">
+                                    <a href="account.php" id="login-btn">
                                         <i class="fa-regular fa-circle-user"></i>
                                         Login
                                     </a>
                                 </li>
                                 <li></li>
                                 <li>
-                                    <a href="account.php">
+                                    <a href="account.php" id="register-btn">
                                         <i class="fa-solid fa-user-gear"></i>
                                         Register
                                     </a>

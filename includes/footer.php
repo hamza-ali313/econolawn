@@ -89,6 +89,7 @@
 <script src="js/jquery-ui.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.0.1/jquery.payment.min.js"></script>
 <script src="js/custom.js"></script>
 </body>
 

@@ -232,7 +232,7 @@ include 'includes/header.php';
             </div>
         </div>
         <div class="row justify-content-center mt-5">
-            <div class="col-12 col-xl-3 col-lg-3 col-md-3 col-sm-6">
+            <div class="col-12 col-xl-3 col-lg-3 col-md-3 col-sm-6 text-center">
                 <a href="services.php" class="btn1">VIEW MORE SERVICES</a>
             </div>
         </div>
